@@ -1,0 +1,46 @@
+* CSS Document */
+body{
+background-color:#979191;
+}
+.mainpage{
+margin-left:200px;
+height:auto;
+width:80%;
+background-color:#e31e1e;
+box-shadow:6px 6px 6px #000000;
+}
+*{
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+h1.heading1,h5{
+text-align:center;
+color:#FFFFFF;
+padding:5px;
+}
+img{
+margin-left:200px;
+}
+table{
+padding:20px;
+}
+caption{
+background-color:#f18f5e;
+color:#eb6363;
+padding:7px;
+font-weight:bold;
+}
+td{
+background-color:#f08888;
+padding:6px;
+}
+table td:nth-child(odd){
+color:#0e268a;
+font-size:18px;
+}
+table td:nth-child(even){
+color:#27024d;
+}
+p{
+text-align:center;
+padding:20px;
+}
